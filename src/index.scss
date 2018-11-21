@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,500|Roboto:400,700');
+
+$white: #fff;
+$gray: #a5a5a5;
+$black: #322c2c;
+$text: #8e8e8e;
+$logo: #e72626;
+
+* {
+    box-sizing: border-box;
+  
+  }
+
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+   font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: $text;
+    background: $white;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  
+}
+
+h1, h2, h3 {
+  font-family: 'EB Garamond', serif;
+  color: $black;
+  line-height: 2.1;
+}
+
+h2, h3 {
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2.325rem;
+  font-weight: 500;
+  margin: 0;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0 1rem 0 2rem;
+  text-align: center;
+}
+

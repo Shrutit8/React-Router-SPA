@@ -1,0 +1,68 @@
+  @import './index.scss';
+
+.navbar {
+    position: relative;
+    top:2rem;
+    padding: 0 6.5rem 0 4.5rem;
+      font-size: 1.35rem;
+      font-weight: 800;
+      letter-spacing: 0.225rem;
+      text-transform: uppercase;
+      margin: 0 2.5rem 0 4rem;
+      color: $gray;
+    text-decoration: none;
+    &:hover {
+      color: $black;
+    }
+  }
+  .logoName {
+    color:$logo;
+  }
+
+.container {
+    margin: auto;
+    padding: 3rem 1rem;
+    max-width: 75rem;
+    width: 100%;
+    
+    h1  {
+      text-align: center;
+    }
+
+    .content {
+      margin: 1rem 0;
+      padding: 0;
+      width: 100%;
+    }
+
+    img {
+      margin-top: 3rem;
+      width:50%;
+      height:70vh;
+      float: left;
+      background: url('../src/img/janedoe.jpeg') no-repeat center;
+      background-size: contain;
+    }
+
+    p {
+      margin: 1rem 1rem 1.5rem;
+      padding-right: 1rem;
+      line-height: 1.75rem;
+      text-align: center;
+    }
+
+    blockquote {
+      font-style: italic;
+      text-align: center;
+      width: 40rem;
+      height: auto;
+      max-width: 100%;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      font-size: 1.25rem;
+    }
+}
+
+
+
