@@ -1,3 +1,7 @@
+
+Blogger pages created using React Router. Template can be used with minimal tweeks and a responsive SPA can be created easily.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
