@@ -3,7 +3,7 @@ Blogger pages created using React Router. Template can be used with minimal twee
 
       
         ![ReactRouter](React-Router-SPA/src/img/janedoe.png?raw=true "Title")
-        ![ReactRouter]("https://github.com/Shrutit8/React-Router-SPA/blob/master/src/img/janedoe.png")
+        ![ReactRouter](https://github.com/Shrutit8/React-Router-SPA/blob/master/src/img/janedoe.png)
 
 
 
