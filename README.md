@@ -2,8 +2,10 @@
 Blogger pages created using React Router. Template can be used with minimal tweeks and a responsive SPA can be created easily.
 
       
-        ![ReactRouter](React-Router-SPA/src/img/janedoe.png?raw=true "Title")
-       (https://github.com/Shrutit8/React-Router-SPA/blob/master/src/img/janedoe.png)
+
+        (React-Router-SPA/src/img/janedoe.png)
+      
+(https://github.com/Shrutit8/React-Router-SPA/blob/master/src/img/janedoe.png)
 
 
 
